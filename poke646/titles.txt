@@ -1,0 +1,740 @@
+$position -1 0.25
+$effect 0
+$color 193 207 204
+$color2 0 0 0
+$fadein 3
+$holdtime 3.0
+$fadeout 3
+
+GAMETITLE
+{
+Half-Life
+}
+
+$position -1 0.6
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.04
+$fxtime 1
+$holdtime 2
+$fadeout 1
+
+GAMESAVED
+{
+Saved...
+}
+
+$position -1 0.75
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.07
+$fxtime 1
+$holdtime 3
+$fadeout 2
+
+HAZ_INT
+{
+Poke646 Headquarters
+Section C: Boot Camp and Training Area
+}
+
+//Hazard Course
+
+$position 0.05 0.05
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.05
+$fxtime 0.05
+$holdtime 4
+$fadeout 2
+
+HC01
+{
+Welcome to the Poke646 hazard course.
+
+The first exercise is an obstacle
+course to train your basic fitness.
+You will only be allowed to proceed
+if you manage to reach the platform
+on the other side of the course.
+Good luck!
+}
+
+HC02
+{
+Sorry, but you didn't make the
+obstacle course in time. Please
+return to the start, hit the button
+and try again... this time harder.
+}
+
+HC03
+{
+Congratulations, you managed to
+complete the obstacle course. Please
+head over to the next section.
+}
+
+HC04
+{
+Every Poke646 employee has his own
+"info unit identity card" (IUIC). This
+card serves as a connection to "info
+units" (IU) which are used for all
+inhouse communication.
+
+Please pick up the IUIC in front of you.
+}
+
+HC05
+{
+If someone at Poke646 sends you
+a message, you will receive a
+repeating notification on your
+IUIC until you connect to an IU.
+You can use any IU to read the
+message.
+}
+
+HC06
+{
+"Work hard, work smart" - that's a
+main part of the Poke646 philosophy.
+You will only be able to leave the
+next room if you can find out the
+code for the exit door.
+}
+
+HC07
+{
+Excellent, now it's time for some
+more intense fitness training. Please
+head over to the "Combat Fitness"
+training area.
+}
+
+HC08
+{
+Poke646 employees have a high risk of close
+encounters with alien lifeforms and therefore
+need to be trained in close combat.
+
+In the next room find yourself something to use
+as a weapon and burst the crates to reach the
+exit. Keep an eye on your physical condition and
+don't over-exert, this will only slow you down
+and make you weaker.
+}
+
+HC09
+{
+Please hand out your weapon to the guard
+behind the counter before you proceed to
+the next area.
+}
+
+HC10
+{
+Explosives are an effective way to fight
+alien lifeforms. Study the chart on the
+wall carefully to train the necessary
+movements for throwing the pipebomb
+across the fence and kill the bullsquid
+(don't worry, we're cloning more than
+enough of them in our labs).
+}
+
+HC11
+{
+Every Poke646 employee is equipped with a
+multifunctional wristwatch, it can be
+adjusted to send in almost every radio
+frequency. Use it to detonate the pipebomb.
+
+A pipebomb is not a charged explosive and
+can be picked up again if you accidentally
+throw it in the wrong place.
+}
+
+HC12
+{
+Excellent. Head over to the next area.
+}
+
+HC13
+{
+Didn't you read the briefing? You were
+supposed to hurt the bullsquid, not yourself.
+Try again...
+}
+
+HC14
+{
+The next exercise will test your physical
+stability and how much damage you can stand
+without being armored. Please move through
+the next room as fast as you can and we will
+scan your health status afterwards.
+}
+
+HC15
+{
+The health scanner displays that you need
+to train hazardous situations much more in
+order to survive combat situations. Please
+refresh at the soda machine for the last
+part of the training area.
+}
+
+HC16
+{
+Good knowledge of alien lifeforms is a huge
+advantage in surviving any close encounter
+with Xen creatures. Study the charts on the
+wall about the most common Xen enemies.
+}
+
+HC17
+{
+Since the so called "Black Mesa incident" we
+discovered more uncommon species, two of them
+being the "Explotoad" and the "Xen Squasher".
+Learn more about them in the next room.
+}
+
+HC18
+{
+The "Explotoad" is a frog-like creature which
+gets out of temper very easy. It secretes a
+slimy substance to mark its "district". Push
+the button on the wall to see what happens if
+you step into an explotoads district.
+}
+
+HC19
+{
+Shooting at explotoads will result in the
+same behaviour of "detonation suicide".
+}
+
+HC20
+{
+A Xen creature of an extremely high value
+is the "Xen Squasher". This animal loves
+Acme's "Yum Yum Candy" and can be tamed
+when fed regularly. In addition it can
+be used as a weapon: squeeze it after it's
+been fed and it will spit a deadly acid
+whereever you point it to, even onto other
+Xen lifeforms.
+}
+
+HC21
+{
+The more common "Barnacles" seem to have the
+same addiciton for candy and will eventually
+leave a box of it after being killed.
+}
+
+HC22
+{
+Try to get familiar with this "weapon" on
+the Poke646 target range. This will close
+the section C training area of the Poke646
+boot camp.
+}
+
+HC23
+{
+Congratulations, you successfully completed the
+section C training area of the Poke646 boot camp.
+You can leave the target range through the lower
+exit. Thanks for participating, come back any time.
+}
+
+//Intro
+
+$position 0.05 0.8
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.04
+$fxtime 1
+$holdtime 2
+$fadeout 1
+
+INTRO1
+{
+NATION CITY
+
+Industry district, 3:42 p.m.
+13 months after the incidents at Black Mesa.
+}
+
+INTRO2
+{
+The Black Mesa Research Facility has been
+shut down. The nation never got to know
+anything about the experiments there. The
+less you know, the less you worry.
+}
+
+INTRO3
+{
+The government founded a new organisation
+to handle "alien related topics". They hired
+the best scientists, technicians and military
+forces worldwide. Its name is Poke646.
+}
+
+INTRO4
+{
+Some days ago the Poke646 scientists spotted
+alarming signals from the Xen homeworld. It
+looks as if the aliens plan to invade Nation
+City by opening a massive amount of portals.
+}
+
+INTRO5
+{
+But the Poke646 Tech Labs are already prepared:
+some months ago the technicians developed a huge
+generator which is able to close hundreds of
+portals at once with a bundled energy beam.
+}
+
+INTRO6
+{
+Four generators are about to be installed at the
+edges of Nation City. With all four activated
+they will form a giant beam and hopefully
+destroy the alien portal technology forever.
+}
+
+INTRO7
+{
+Damien Reeves, the technical assistant of
+Dr. Fuller, doesn't know all these details.
+All he is currently worrying about is where
+the hell he lost his car keys when suddenly...
+}
+
+//Map Titles
+
+$position -1 0.65
+$effect 0
+$color 193 207 204
+$color2 0 0 0
+$fadein 1.5
+$holdtime 3.0
+$fadeout 1.5
+
+AUDION1
+{
+3 hours later...
+}
+
+AUDION2
+{
+Chapter 1:
+AUDION INDUSTRIES
+}
+
+SEWER1
+{
+Chapter 2:
+THE SEWERS
+}
+
+LIBRARY1
+{
+Chapter 3:
+NATION CITY LIBRARY
+}
+
+EASTEND1
+{
+Chapter 4:
+EASTEND
+}
+
+XEN1
+{
+Epilogue:
+XEN
+}
+
+// Subway 
+
+$position 0.27 0.20
+$effect 2
+$color 72 112 160
+$color2 192 255 255
+$fadein 0.01
+$fxtime 1
+$holdtime 8
+$fadeout 0.25
+
+IU_EAS06
+{
+NC//RC Radio System
+-------------------------
+Please enter your ID co}}d  -e...,++Wxx
+
+Damien, it's me, Dr. Fuller. I managed to hack
+the NCRC radio system, but I've got bad news
+for you. The Xen teleporters damaged the train
+controls and you won't be able to stop the
+train anymore.
+}
+
+IU_EAS07
+{
+You're rapidly racing into a dead end so you
+need to get off the train. Try to reach the end
+of the train and destroy the emergency clutch,
+this will uncouple the last waggon and you should
+come to a safe stop.
+}
+
+IU_EAS08
+{
+You have around 5 minutes time before you'll crash
+into a wall at Eastend station, so hurry up! I'll
+unlock the waggon doors for you, this should be
+possible from here.
+}
+
+//Info Unit
+
+$position 0.27 0.20
+$effect 2
+$color 50 200 50
+$color2 0 255 0
+$fadein 0.01
+$fxtime 1
+$holdtime 8
+$fadeout 0.25
+
+HAZARD
+{
+From: Poke646 HQ
+To: Trainee
+------------------
+
+The code for the door to your left is
+9125. Enter the code and proceed to
+the next area.
+}
+
+IU_AUD01
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Hello Damien,
+
+back in our HQ we noticed that we must've
+somehow forgotten you while evacuating
+the whole city some hours ago. Our mission
+failed - the alien forces have already opened
+hundreds of portals and we had no time left
+to activate the generators.
+}
+
+IU_AUD02
+{
+It is too dangerous to send troops into the
+city again so you are on your own. Your only
+chance to get out alive is to activate all 4
+generators and defeat the alien breed. To
+start the generator in front of you, you'll
+need to activate the main warehouse power
+first.
+}
+
+IU_AUD03
+{
+I'm truly sorry that things turned out this way,
+but now you are our only hope to strike back
+Xen and... well... save the human race.
+Good luck!
+
+P.S.: I'll stay in contact with you from HQ and
+give you orders via any available info unit.
+}
+
+IU_SEW01
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Damien, I'm glad to see you're still alive!
+Even better that you've managed to enable the
+first generator! But the alien activity on our
+screens is still very high so you shouldn't
+waste any time and head over to the second
+generator.
+}
+
+IU_SEW02
+{
+The 2nd generator is located in a prohibited area
+owned by the Nation City Sewer Authority. I'm
+afraid your only way to get there is right through
+the sewers. You will find another IU in the NCSA
+property and I will get in contact with you there.
+}
+
+IU_SEW03
+{
+P.S.: I just noticed that you must be near one
+of our tech vans. You should take a look around
+the crates, maybe you'll find some weaponry in
+there.
+}
+
+IU_SEW04
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Damien, you're one tough guy! I lost your
+signals when you got down into the sewers
+and I already lost faith in you. Damn, a good
+consistence for a technical assistant! Ok, on
+to your tasks: this generator is already
+connected to the NCSA power plant.
+}
+
+IU_SEW05
+{
+Just hit the switch and immediately head for
+the surface, the alien teleporters cause minor
+earthquakes which could be very critical down
+where you are. Hopefully our tech staff didn't
+lock the doors, otherwise you'll have to find
+yourself a way out.
+}
+
+IU_SEW06
+{
+The 3rd generator has been installed in the
+secret Poke646 bunker inside of the Nation
+City library, located on Twain Street. You'll
+find new weapons, medkits and another IU
+inside of the bunker, I'll give you your last
+instructions there.
+}
+
+IU_LIB01
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+So you made it through the city and found our
+tech van, very good! I'm afraid the library
+front entrance is locked so you need to enter
+through the side entrance. We aren't receiving
+many alien signals from inside the library so
+you shouldn't encounter any serious problems.
+}
+
+IU_LIB02
+{
+The 3rd generator is located in the secret
+Poke646 bunker, deep down in the basement
+of the library. The entrance to the bunker is
+hidden behind a bookshelf in the "biology"
+section, turn this around to enter the elevator
+leading down to the basement.
+}
+
+IU_LIB03
+{
+The elevator requires a code to be activated,
+it's 6122. Inside of the bunker you'll find a lot
+of supplies and weapons to prepare you for the
+last part of your mission, good luck!
+}
+
+IU_BUN01
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Damien, stay tuned while I poke a "level 2
+authorization" into your identity card, this
+should open you most doors down here - but
+I'm afraid you need a "level 3 authorization"
+to access the generator area.
+}
+
+IU_BUN02
+{
+Unfortunately I can't give you an access code
+that high from where I am. However, take a look
+around and I'm sure you can find a level 3 IUIC
+somewhere. I programmed the bunker exit so it
+opens as soon as you activate the generator.
+}
+
+IU_BUN03
+{
+Erm... there is also some bad news on the way,
+but it's better to tell you more about that after
+you've activated the generator. You'll find
+another IU near the bunker exit.
+}
+
+IU_BUN04
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Now we have what I would call "a worst case
+scenario". The Poke646 military headquarters
+decided that 3 activated generators are enough
+and sent troops into the city again to clean up
+the remaining alien breed.
+
+}
+
+IU_BUN05
+{
+Their order is to shoot on sight so you need to
+get out of the city immediately, they won't
+hesitate to eliminate you as well! I gave the order
+to send  a tank to the bunker surface exit which
+will pick you up and give you a safe ride back
+to our HQ.
+}
+
+IU_BUN06
+{
+The military staff is extremely nervous about
+the alien invasion and their troops are heavily
+armed so you really need to avoid any contact
+with them! Ok, I'll unlock the elevator doors in
+a second and hope to see you again soon.
+}
+
+IU_EAS01
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Damn, Colonel Decker was your last hope to
+get out of the city alive! So we need to change
+our plans, let's see... Ok, you'll have to
+activate the last generator, this will show
+those military blockheads that it's useless
+to burn down the whole city.
+}
+
+IU_EAS02
+{
+Unfortunately you won't be able to reach the
+last generator by foot, it's located in Eastend,
+the slums on the other side of town. Your best
+bet will be to get down to the subway station
+nearby and capture the train to Eastend.
+}
+
+IU_EAS03
+{
+Our radar shows very high military activity
+down there so my advice is to proceed with
+extreme caution!
+}
+
+IU_EAS04
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+The whole subway station runs on emergency power,
+looks as if the subway personnel shut down the
+main power before they left. You need to get
+into the power room on the other platform of
+the station and activate the train power in order
+to get onto the train.
+}
+
+IU_EAS05
+{
+I'll try to hack the railroad radio system so
+I can stay in contact with you once you're on
+the train. Good luck!
+}
+
+IU_EAS09
+{
+From: Dr. Sebastian Fuller
+To: Damien Reeves
+----------------------------
+
+Very good work Damien, you're nearing the end of
+your mission. The 4th and last generator is close
+nearby, built up at an abandoned warehouse on the
+other side of the harbor dock.
+}
+
+IU_EAS10
+{
+To keep out trespassers, the Poke646 staff have
+charged tripmines throughout the whole area, so
+approach the warehouse with extreme caution!
+Heavy explosions on my radar show that the troops
+are trying to activate the generator themselves,
+with no luck I'm afraid.
+}
+
+IU_EAS11
+{
+So it's once again up to you to fulfill the
+mission and finally make the bundled beam of all
+4 generators reach Xen... and bring this to an end.
+}
+
+//Outro
+
+$position 0.05 0.05
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.04
+$fxtime 1
+$holdtime 20
+$fadeout 1
+
+OUTRO
+{
+Now I understand why the troops were so keen
+on hunting me down. I already knew too much.
+Dr. Fuller tried his best to save me, but after
+all he is on their side and has always been. Here
+I sit, betrayed by everyone and stranded on a
+foreign world without any possibility to get back.
+
+Are they going to send a rescue ship? I shouldn't
+bet on that. I managed to destroy their most
+advanced technology, crossed all their attempts
+to eliminate Xen and I know way too much about
+their dirty plans. I should start to feel familiar
+with this world, looks as if it'll become my new
+home.
+
+Goodbye world, welcome Xen...
+}

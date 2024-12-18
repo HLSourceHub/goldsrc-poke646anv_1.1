@@ -1,0 +1,1 @@
+hl.exe -game poke646 -num_edicts 2048 -console

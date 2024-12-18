@@ -1,0 +1,150 @@
+//Intro
+
+$position 0.05 0.05
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.06
+$fxtime 1
+$holdtime 4
+$fadeout 1
+
+INTRO1
+{
+At the break of dawn, Damien Reeves was just a
+low level technician in the Poke646 organization.
+But over the course of one terrifying day, he became
+so much more... a fighter, a savior, some would even
+call him a hero.
+
+The odds were not in his favor though. Now he finds
+himself stranded on the Xen borderworld, betrayed
+by his former boss Dr. Sebastian Fuller and left
+behind by everyone at Poke646.
+}
+
+INTRO2
+{
+Being the excellent technician he is, Damien
+manages to create a stable teleporter signal in
+an abandoned Poke646 space shuttle, left behind
+on the asteroid, like him.
+
+Damien doesn't know who he can trust anymore,
+he can't tell right from wrong, he doesn't even
+know where this teleporter might take him...
+but there's one thing he knows.
+
+Revenge is a dish best served cold.
+}
+
+//Game Saved
+
+$position -1 0.6
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.04
+$fxtime 1
+$holdtime 2
+$fadeout 1
+
+GAMESAVED
+{
+Saved...
+}
+
+//Map Titles
+
+$position -1 0.65
+$effect 0
+$color 193 207 204
+$color2 0 0 0
+$fadein 1.5
+$holdtime 3.0
+$fadeout 1.5
+
+CHAPTER1
+{
+Chapter 1
+
+ORBITAL RESEARCH LABS
+Earth Orbit
+}
+
+CHAPTER2
+{
+Chapter 2
+
+NATION CITY
+Western Hemisphere
+}
+
+CHAPTER3
+{
+Chapter 3
+
+POKE646 ASTROLABS
+Nation City Outskirts
+}
+
+OUTRO
+{
+POKE646 HEADQUARTERS
+Nation City
+
+3 weeks later...
+}
+
+// Ingame Advice
+
+$position -1 0.75
+$effect 2
+$color 150 150 150
+$color2 255 255 192
+$fadein 0.07
+$fxtime 1
+$holdtime 3
+$fadeout 2
+
+ADVICE01
+{
+Laptops provide useful and often necessary information.
+Press your "Use" key to read a laptop screen.
+}
+
+ADVICE02
+{
+Medical treatment devices supply you
+with health, but can only be used once.
+}
+
+PICKUPID
+{
+You picked up an ID card.
+}
+
+PICKUPKEY
+{
+You picked up an apartment key.
+}
+
+PICKUPL1
+{
+You picked up a "Level 1" authorization card.
+}
+
+PICKUPL4
+{
+You picked up a "Level 4" authorization card.
+}
+
+PICKUPACCESS
+{
+You picked up an access card to the power circuit fuse box.
+}
+
+NOPOWER
+{
+You need to activate the portal power supply first.
+}

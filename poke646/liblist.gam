@@ -1,0 +1,15 @@
+// liblist.gam file for Poke646
+
+gamedir "poke646"
+game "Poke646"
+icon "resource/icon"
+developer_url "www.poke646.com"
+url_info "www.poke646.com"
+version "1.1"
+svonly "0"
+cldll "1"
+type "singleplayer_only"
+mpentity ""
+gamedll "dlls\hl.dll"
+startmap "po_intro"
+trainmap "po_haz01"

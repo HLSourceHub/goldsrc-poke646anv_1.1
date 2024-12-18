@@ -1,0 +1,9 @@
+// Reference file for the Poke646 MP3 soundtrack
+//
+"po_aud01.bsp"		"mp3/audion.mp3"	"0"
+"po_sew01.bsp"		"mp3/sewer.mp3"		"0"
+"po_lib01.bsp"		"mp3/library.mp3"	"0"
+"po_lib07.bsp"		"mp3/library.mp3"	"0"
+"po_eas02.bsp"		"mp3/eastend.mp3"	"0"
+"po_haz01.bsp"		"mp3/hazard.mp3"	"0"
+"credits.bsp"		"mp3/credits.mp3"	"0"

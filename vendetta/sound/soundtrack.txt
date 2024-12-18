@@ -1,0 +1,7 @@
+// Reference file for the "Poke646: Vendetta" MP3 soundtrack
+
+"pv_intro.bsp"		"mp3/int.mp3"		"0"
+"pv_orl01.bsp"		"mp3/orl.mp3"		"0"
+"pv_ntc01.bsp"		"mp3/ntc.mp3"		"0"
+"pv_ntc05.bsp"		"mp3/asl.mp3"		"0"
+"pv_outro.bsp"		"mp3/out.mp3"		"0"
